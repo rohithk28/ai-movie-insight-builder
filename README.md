@@ -143,7 +143,7 @@ The application is deployed using **Vercel**, which provides native support for 
 The deployed application can be accessed at:
 
 ```
-<live-deployment-url>
+https://ai-movie-insight-builder-ten.vercel.app
 ```
 
 ---
